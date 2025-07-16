@@ -13,3 +13,9 @@
 - Botão de fechar o pop up visualmente mais limpo.
   
 ![Solução do Exercício 01](exe_01.png)
+
+
+## teste 02 - LANDING PAGE
+### solução
+
+![Solução do Exercício 02](exe_02.png).
