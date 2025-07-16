@@ -11,3 +11,5 @@
 - Diminui o número de camadas e a quantidade de texto.
 - Tornei o botão de "Saiba mais" algo mais minimalista, também removi os excessos além da imagem.
 - Botão de fechar o pop up visualmente mais limpo.
+  
+![Solução do Exercício 01](exe_01.png)
